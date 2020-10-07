@@ -52,3 +52,4 @@ ionic build
         b. NPM, Ionic CLI
         c. run tests (npm test), identify broken function, fix the function
         d. write tests for form validation and re-run tests
+# udacity_c2_frontEnd
